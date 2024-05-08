@@ -1,0 +1,14 @@
+* { box-sizing: content-box; margin: 0; border: 0; padding: 0}
+
+
+
+
+body {
+    max-width: 1440px;
+    padding: 0px;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+
